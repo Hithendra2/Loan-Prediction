@@ -4,3 +4,6 @@ Loan Prediction model that uses:
 3.HistGradientBoosting
 
 It is evaluated using metrics like accuracy and F1 score
+
+repo by:Hithendra
+collaborators:Pragun Hagaldivt, Kalyan Kumar N
