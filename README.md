@@ -6,4 +6,4 @@ Loan Prediction model that uses:
 It is evaluated using metrics like accuracy and F1 score
 
 repo by:Hithendra
-collaborators:Pragun Hagaldivt, Kalyan Kumar N
+collaborators:Pragun Hagaldivte, Kalyan Kumar N
